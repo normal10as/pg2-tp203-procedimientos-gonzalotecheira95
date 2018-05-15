@@ -16,3 +16,7 @@ C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimi
 C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
 C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
 C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
+C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\gnxa9\Source\Repos\pg2-tp203-procedimientos-gonzalotecheira95\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
