@@ -15,6 +15,7 @@
 
     Private Function Horaactual()
         Console.WriteLine("Hora Actual: " & fecha.Hour & ":" & fecha.Minute)
+        Return Horaactual()
     End Function
 
 End Module
